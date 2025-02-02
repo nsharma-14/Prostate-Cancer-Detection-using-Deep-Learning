@@ -1,10 +1,10 @@
 # Prostate Cancer Detection using Deep Learning
-* Created By
-Natasha Sharma
-University at Albany, NY, USA
+*Created By*\
+Natasha Sharma\
+University at Albany, NY, USA\
 E-mail: nsharma@albany.edu
 
-# Abstract
+## Abstract
 Prostate cancer is the major cause of death in men, and its complicated biology and rising incidence
 provide considerable diagnostic problems. The study used the PANDA dataset, which included
 high-resolution prostate biopsy images, to assess the effectiveness of machine learning and deep
@@ -252,13 +252,13 @@ In order to be implemented into clinical routine, an algorithm must be externall
 trained using ground truth labeling that represents the histological data of the entire prostate gland.
 These algorithms will need ongoing quality control and monitoring to ensure their functionality even
 after they are used in clinical settings.
+
 Ground truth refers to labels that are annotated by an expert to categorize MRI volumes into
 defined classes, for example, PCa versus normal-appearing prostate tissue. This classification is used
 for training, testing, and evaluating AI algorithms. The development of AI algorithms depends on
 the annotation quality of the histopathological truth in the mpMRI scans. Moreover, the ground
 truth must reflect the histopathological information of the entire prostate as accurately as possible to
 be clinically relevant and applicable. (Suarez-Ibarrola et al., 2022)
-
 
 Several groups in the world are exploring routes to improve prostate MRI quality, and recently,
 prostate imaging quality (PI-QUAL) was released by European prostate MRI experts. This system
