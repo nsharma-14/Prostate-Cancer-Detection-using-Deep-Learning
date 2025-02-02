@@ -34,6 +34,7 @@ Keywords: Artificial Intelligence; Machine Learning, Deep learning; Convolutiona
 Networks; Transfer Learning.
 
 1. Introduction
+   
 The second most significant cause of cancer-related death in men and the most frequently diagnosed
 non-skin cancer is prostate cancer. (Van Booven et al., 2021)
 
